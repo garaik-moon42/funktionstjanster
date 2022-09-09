@@ -19,8 +19,7 @@ https://youtu.be/O79pJ7qXwoE
 
 I found an interesting article about how to setup a Docker image of WordPress with preinstalled plugins and themes:
 
-https://dev.to/saluminati/dockerize-wordpress-with-themes-plugins-and-common-configuration-2am4
-
+k
 It turned out that WordPress is controllable with command line tools (CLI):
 
  * https://developer.wordpress.org/cli/commands/
