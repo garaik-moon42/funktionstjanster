@@ -17,6 +17,10 @@ Great WordPress tutorial video covering the basics:
 https://youtu.be/O79pJ7qXwoE
 (44:57)
 
+Elementor is a userful plugin helping website content and layout editing, here is a tutorial video for it:
+
+https://www.youtube.com/watch?v=UgvyrsAvA6M
+
 I found an interesting article about how to setup a Docker image of WordPress with preinstalled plugins and themes:
 
 k
