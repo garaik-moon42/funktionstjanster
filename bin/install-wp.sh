@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# Install WordPress.
+# Install WordPress
 wp core install \
   --path="/var/www/html" \
   --url="http://localhost:${WORDPRESS_PORT}" \

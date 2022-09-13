@@ -21,9 +21,6 @@ Elementor is a userful plugin helping website content and layout editing, here i
 
 https://www.youtube.com/watch?v=UgvyrsAvA6M
 
-I found an interesting article about how to setup a Docker image of WordPress with preinstalled plugins and themes:
-
-k
 It turned out that WordPress is controllable with command line tools (CLI):
 
  * https://developer.wordpress.org/cli/commands/
